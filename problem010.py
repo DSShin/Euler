@@ -1,20 +1,17 @@
-__author__ = 'USER'
-
-sum= 2
-i = 3
-print(" Prime number ", 2)
+__author__ = 'shunaker'
+sum = 2
 condition = True
-while i<2000000:
-    for k in range(2,i):
-        if i%k == 0:
-            condition = False
-            break;
+for i in range(3,2000000,2):
+    for j in range(3,i,2):
+        if j>i**0.5:
+            break
         else:
-            condition = True
+            if i%j == 0 :
+                condition=False
+                break
+        condition = True
+    if condition == True :
+        print("Prime ",i)
+        sum = sum + i
 
-    if condition == True:
-        sum = sum+ i
-        print(" Prime number ", i)
-    i = i +2
-
-print("Prime total is ", sum)
+print("Total Prime is ", sum)

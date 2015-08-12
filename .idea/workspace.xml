@@ -21,21 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="problem013.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem013.py">
+      <file leaf-file-name="problem014.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problem014.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27496383">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="problem14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.21997106">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,6 +61,7 @@
         <option value="$PROJECT_DIR$/problem012.py" />
         <option value="$PROJECT_DIR$/problem013.py" />
         <option value="$PROJECT_DIR$/problem14.py" />
+        <option value="$PROJECT_DIR$/problem014.py" />
       </list>
     </option>
   </component>
@@ -170,24 +161,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.problem013">
-    <configuration default="false" name="problem009" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem009.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.problem014">
     <configuration default="false" name="problem010" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,6 +226,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem013.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="problem014" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem014.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -397,19 +388,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.problem004" />
-      <item index="1" class="java.lang.String" itemvalue="Python.problem009" />
-      <item index="2" class="java.lang.String" itemvalue="Python.problem010" />
-      <item index="3" class="java.lang.String" itemvalue="Python.problem011" />
-      <item index="4" class="java.lang.String" itemvalue="Python.problem012" />
-      <item index="5" class="java.lang.String" itemvalue="Python.problem013" />
+      <item index="1" class="java.lang.String" itemvalue="Python.problem010" />
+      <item index="2" class="java.lang.String" itemvalue="Python.problem011" />
+      <item index="3" class="java.lang.String" itemvalue="Python.problem012" />
+      <item index="4" class="java.lang.String" itemvalue="Python.problem013" />
+      <item index="5" class="java.lang.String" itemvalue="Python.problem014" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.problem013" />
-        <item index="1" class="java.lang.String" itemvalue="Python.problem012" />
-        <item index="2" class="java.lang.String" itemvalue="Python.problem011" />
-        <item index="3" class="java.lang.String" itemvalue="Python.problem010" />
-        <item index="4" class="java.lang.String" itemvalue="Python.problem009" />
+        <item index="0" class="java.lang.String" itemvalue="Python.problem014" />
+        <item index="1" class="java.lang.String" itemvalue="Python.problem013" />
+        <item index="2" class="java.lang.String" itemvalue="Python.problem012" />
+        <item index="3" class="java.lang.String" itemvalue="Python.problem011" />
+        <item index="4" class="java.lang.String" itemvalue="Python.problem010" />
       </list>
     </recent_temporary>
   </component>
@@ -590,18 +581,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problem013.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27496383">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem014.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21997106">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

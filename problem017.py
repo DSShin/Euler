@@ -37,11 +37,11 @@ for i in range(1,1001) :
             total = total+ 6
             print (i, total)
             continue
-        elif count3 == 3 or count3 == 4 or count3 == 5 or count3 == 8 or count3 == 9:
+        elif count3 == 3 or count3 == 4 or count3 == 8 or count3 == 9:
             total = total + 8
             print (i, total)
             continue
-        elif count3 == 6 :
+        elif count3 == 6  or count3 == 5:
             total = total + 7
             print (i, total)
             continue
